@@ -11,7 +11,10 @@ public class NPSM_142_001_01 {
 		System.out.println("dev");
 		System.out.println("dev2");
 		System.out.println("dev3");
+<<<<<<< HEAD
 		System.out.println("dev4");
+=======
+>>>>>>> refs/remotes/origin/dev
 
 	}
 
