@@ -6,6 +6,7 @@ public class NPSM_142_001_01 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("111");
+		System.out.println("222");
 
 	}
 
